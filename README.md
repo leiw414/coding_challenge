@@ -3,13 +3,13 @@ Coding_Challenge
 
 ##Software Developer Coding Challenge##
 
-A composer.json file is created and put at root directory. The extenal framework I used is Codeigniter 2.1.4.
+A file named "composer.json" is created and put under root directory. The extenal framework used is Codeigniter 2.1.4.
 
-First, put code folder under your www directory.
+First, download and unzip coding_challenge and put code folder under your www directory.
 
 **Phase1**
 * A simple PHP library, which will calculate the mean, median, mode, and range of a set of numbers, is named "statistic.php" and located at /code/application/libraries/statistic.php.
-* I made a controller to test the statistic library. You can test it @ 
+* A controller is made to test the statistic library. You can test it @ 
 ```
 http://localhost/code
 ```
@@ -19,8 +19,8 @@ http://localhost/code/index.php/test
 ```
 
 **Phase2**
-* I made a REST API for my statistic library which is located at /code/application/controller/mmmr.php
-* I made a REST Client file called rest_api_post_test.php at the root directory. You can test by running rest_api_post_test.php from the command-line.
+* A REST API for the statistic library is made and located at /code/application/controller/mmmr.php
+* A REST Client file named "rest_api_post_test.php" is made and located at the root directory. You can test by running rest_api_post_test.php from the command-line.
 ```
 $ php rest_client.php
 ```
