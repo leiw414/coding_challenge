@@ -1,5 +1,7 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
+/*-----Phase1 Library Test ---*/
+
 class First extends CI_Controller {
 
 	public function index()
