@@ -18,4 +18,4 @@ http://localhost/code/index.php/test
 
 **Phase2**
 * I made a REST API for my statistic library which is located at /code/application/controller/mmmr.php
-* I made a Rest Client file called rest_api_post_test.php at the root directory
+* I made a REST Client file called rest_api_post_test.php at the root directory
