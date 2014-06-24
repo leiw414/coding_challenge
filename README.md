@@ -1,4 +1,4 @@
-coding_challenge
+Coding_Challenge
 ================
 
 ##Software Developer Coding Challenge##
