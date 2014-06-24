@@ -1,7 +1,7 @@
 {
     "description": "Code Challenge",
     "keywords": ["mmmr", "statistics"],
-    "homepage": "https://github.com/leiw414/code_challenge",
+    "homepage": "https://github.com/leiw414/coding_challenge",
     "license": "Apache-2.2",
     "require": {
         "php": ">=5.3.0",
