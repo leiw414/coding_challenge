@@ -1,4 +1,7 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed'); 
+
+/*---Phase1 MMMR Library ---*/
+
 final class Statistic
 {
      /**
